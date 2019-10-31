@@ -1,0 +1,155 @@
+Welcome player Sir Kendric
+
+Sir Kendric is wearing Shiny Armour
+Health: 100 Confidence: 50 Wielding: FistsOfFury
+You are alone in a cold room. It is very silent...
+?> describe
+You are alone in a cold room. It is very silent...
+There is a Jewel on the floor.
+There is 1 door
+?> pickup jewel
+Sir Kendric picks up the Jewel
+?> admire jewel
+Sir Kendric admires the shiny jewel
+Sir Kendric confidence increases 13
+?> door 1
+Sir Kendric bravely opens door 1
+This room has four walls
+A Zombie draws hither!
+Sir Kendric wields FistsOfFury and is ready for battle!
+!> attack
+Sir Kendric attacks Slow moving zombie
+The Slow moving zombie sustains 27 damage
+The Zombie attacks!
+Sir Kendric has sustained 20 damage!
+
+Sir Kendric is wearing Shiny Armour
+Health: 80 Confidence: 53 Wielding: FistsOfFury
+!> attack
+Sir Kendric attacks Slow moving zombie
+The Slow moving zombie sustains 32 damage
+Brave Sir Kendric has defeated the Slow moving zombie!
+?> help
+Explore commands: admire, describe, door, eat, exit, help, mobile, open, pickup, quit, stats, wield
+?> describe
+This room has four walls
+There is a GoldBars on the floor.
+There is a RoastBoar on the floor.
+There is a LockPick on the floor.
+There is a Sword on the floor.
+There are 3 doors
+?> pickup roastboar
+Sir Kendric picks up the RoastBoar
+?> pickup sword
+Sir Kendric picks up the Sword
+?> wield sword
+Brave Sir Kendric wields the Sword
+?> stats
+
+Sir Kendric is wearing Shiny Armour
+Health: 80 Confidence: 53 Wielding: Sword
+Brave Sir Kendric is carrying the following items: Jewel,RoastBoar,Sword,
+?> pickup goldbars
+Sir Kendric picks up the GoldBars
+?> pickup lockpick
+Sir Kendric picks up the LockPick
+?> admire goldbars
+Sir Kendric admires several gold bars in a neat pile
+Sir Kendric confidence increases 4
+?> describe
+This room has four walls
+There are 3 doors
+?> door 2
+Sir Kendric bravely opens door 2
+The ceiling is low in this room and it feels warm.
+A Ogre draws hither!
+Sir Kendric wields Sword and is ready for battle!
+!> attack
+Sir Kendric attacks Mad ogre
+The Mad ogre sustains 91 damage
+The Ogre attacks!
+Sir Kendric has sustained 39 damage!
+
+Sir Kendric is wearing Shiny Armour
+Health: 41 Confidence: 38 Wielding: Sword
+!> attack
+Sir Kendric attacks Mad ogre
+The Mad ogre sustains 89 damage
+Brave Sir Kendric has defeated the Mad ogre!
+?> describe
+The ceiling is low in this room and it feels warm.
+There is a Mobile on the floor.
+There is a Mead on the floor.
+There is a Axe on the floor.
+There is a Chalice on the floor.
+There are 2 doors
+?> pickup axe
+Sir Kendric picks up the Axe
+?> wield axe
+Brave Sir Kendric wields the Axe
+?> stats
+
+Sir Kendric is wearing Shiny Armour
+Health: 41 Confidence: 38 Wielding: Axe
+Brave Sir Kendric is carrying the following items: Jewel,RoastBoar,Sword,GoldBars,LockPick,Axe,
+?> eat roastboar
+Brave Sir Kendric ate the RoastBoar increasing his health 25
+?> stats
+
+Sir Kendric is wearing Shiny Armour
+Health: 66 Confidence: 38 Wielding: Axe
+Brave Sir Kendric is carrying the following items: Jewel,Sword,GoldBars,LockPick,Axe,
+?> describe
+The ceiling is low in this room and it feels warm.
+There is a Mobile on the floor.
+There is a Mead on the floor.
+There is a Chalice on the floor.
+There are 2 doors
+?> pickup mobile
+Sir Kendric picks up the Mobile
+?> pickup mead
+Sir Kendric picks up the Mead
+?> pickup chalice
+Sir Kendric picks up the Chalice
+?> admire chalice
+Sir Kendric admires A gold chalice
+Sir Kendric confidence increases 35
+?> admire chalice
+Sir Kendric admires A gold chalice
+?> stats
+
+Sir Kendric is wearing Shiny Armour
+Health: 66 Confidence: 73 Wielding: Axe
+Brave Sir Kendric is carrying the following items: Jewel,Sword,GoldBars,LockPick,Axe,Mobile,Mead,Chalice,
+?> eat mead
+Brave Sir Kendric ate the Mead increasing his health 25
+?> eat mead
+Brave Sir Kendric could not find a mead in his inventory
+?> describe
+The ceiling is low in this room and it feels warm.
+There are 2 doors
+?> goto 2
+What does "goto 2" mean?
+?> door 2
+Sir Kendric bravely opens door 2
+The room is dark.
+A Dragon draws hither!
+Sir Kendric wields Axe and is ready for battle!
+!> attack
+Sir Kendric attacks Green dragon
+The Green dragon sustains 57 damage
+The Dragon attacks!
+Sir Kendric has sustained 46 damage!
+
+Sir Kendric is wearing Shiny Armour
+Health: 45 Confidence: 50 Wielding: Axe
+!> attack
+Sir Kendric attacks Green dragon
+The Green dragon sustains 33 damage
+The Dragon attacks!
+Sir Kendric has sustained 47 damage!
+
+Sir Kendric is wearing Shiny Armour
+Health: 0 Confidence: 27 Wielding: Axe
+Alas! Sir Kendric has been defeated!
+You have failed your quest

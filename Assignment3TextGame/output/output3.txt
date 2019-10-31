@@ -1,0 +1,104 @@
+Welcome player Sir Kendric
+
+Sir Kendric is wearing Shiny Armour
+Health: 100 Confidence: 50 Wielding: FistsOfFury
+You are alone in a cold room. It is very silent...
+?> describe
+You are alone in a cold room. It is very silent...
+There is a Jewel on the floor.
+There is 1 door
+?> pickup jeweL
+Sir Kendric picks up the Jewel
+?> door 1
+Sir Kendric bravely opens door 1
+This room has four walls
+A Zombie draws hither!
+Sir Kendric wields FistsOfFury and is ready for battle!
+!> attack
+Sir Kendric attacks Slow moving zombie
+The Slow moving zombie sustains 18 damage
+The Zombie attacks!
+Sir Kendric has sustained 19 damage!
+
+Sir Kendric is wearing Shiny Armour
+Health: 81 Confidence: 41 Wielding: FistsOfFury
+!> attack
+Sir Kendric attacks Slow moving zombie
+The Slow moving zombie sustains 31 damage
+The Zombie attacks!
+Sir Kendric has sustained 11 damage!
+
+Sir Kendric is wearing Shiny Armour
+Health: 70 Confidence: 36 Wielding: FistsOfFury
+!> attack
+Sir Kendric attacks Slow moving zombie
+The Slow moving zombie sustains 20 damage
+Brave Sir Kendric has defeated the Slow moving zombie!
+?> describe
+This room has four walls
+There is a GoldBars on the floor.
+There is a RoastBoar on the floor.
+There is a LockPick on the floor.
+There is a Sword on the floor.
+There are 3 doors
+?> pickup goldbars
+Sir Kendric picks up the GoldBars
+?> pickup roastboar
+Sir Kendric picks up the RoastBoar
+?> pickup lockpick
+Sir Kendric picks up the LockPick
+?> pickup sword
+Sir Kendric picks up the Sword
+?> wield sword
+Brave Sir Kendric wields the Sword
+?> admire goldbars
+Sir Kendric admires several gold bars in a neat pile
+Sir Kendric confidence increases 4
+?> eat roastboar
+Brave Sir Kendric ate the RoastBoar increasing his health 25
+?> stats
+
+Sir Kendric is wearing Shiny Armour
+Health: 95 Confidence: 40 Wielding: Sword
+Brave Sir Kendric is carrying the following items: Jewel,GoldBars,LockPick,Sword,
+?> describe
+This room has four walls
+There are 3 doors
+?> door 2
+Sir Kendric bravely opens door 2
+The ceiling is low in this room and it feels warm.
+?> describe
+The ceiling is low in this room and it feels warm.
+There is a Mobile on the floor.
+There is a Mead on the floor.
+There is a Axe on the floor.
+There is a Chalice on the floor.
+There are 2 doors
+?> pickup mobile
+Sir Kendric picks up the Mobile
+?> mobile latestTweet realDonaldTrump
+I will be interviewed on @foxandfriends at 8:00 A.M. Enjoy!
+?> mobile latestTweet HamillHimself
+RT @EmmanuelMacron: Let’s face it: there is not Planet B. https://t.co/vtP2NQYcv9
+?> door 2
+Sir Kendric bravely opens door 2
+The room is dark.
+A Dragon draws hither!
+Sir Kendric wields Sword and is ready for battle!
+!> attack
+Sir Kendric attacks Green dragon
+The Green dragon sustains 95 damage
+The Dragon attacks!
+Sir Kendric has sustained 46 damage!
+
+Sir Kendric is wearing Shiny Armour
+Health: 49 Confidence: 17 Wielding: Sword
+!> attack
+Sir Kendric attacks Green dragon
+The Green dragon sustains 62 damage
+Brave Sir Kendric has defeated the Green dragon!
+?> exit
+Sir Kendric searched everywhere for the exit....
+     ...and behold, found it.
+Well done brave Sir Kendric.
+Your quest has now ended.

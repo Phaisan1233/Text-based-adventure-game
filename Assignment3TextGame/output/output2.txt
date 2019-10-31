@@ -1,0 +1,68 @@
+Welcome player Sir Kendric
+
+Sir Kendric is wearing Shiny Armour
+Health: 100 Confidence: 50 Wielding: FistsOfFury
+You are alone in a cold room. It is very silent...
+?> describe
+You are alone in a cold room. It is very silent...
+There is a Jewel on the floor.
+There is 1 door
+?> pickup jewel
+Sir Kendric picks up the Jewel
+?> door 1
+Sir Kendric bravely opens door 1
+This room has four walls
+A Zombie draws hither!
+Sir Kendric wields FistsOfFury and is ready for battle!
+!> attack
+Sir Kendric attacks Slow moving zombie
+The Slow moving zombie sustains 34 damage
+The Zombie attacks!
+Sir Kendric has sustained 14 damage!
+
+Sir Kendric is wearing Shiny Armour
+Health: 86 Confidence: 43 Wielding: FistsOfFury
+!> attack
+Sir Kendric attacks Slow moving zombie
+The Slow moving zombie sustains 31 damage
+Brave Sir Kendric has defeated the Slow moving zombie!
+?> describe
+This room has four walls
+There is a GoldBars on the floor.
+There is a RoastBoar on the floor.
+There is a LockPick on the floor.
+There is a Sword on the floor.
+There are 3 doors
+?> pickup sword
+Sir Kendric picks up the Sword
+?> door 2
+Sir Kendric bravely opens door 2
+The ceiling is low in this room and it feels warm.
+A Ogre draws hither!
+Sir Kendric wields FistsOfFury and is ready for battle!
+!> attack
+Sir Kendric attacks Mad ogre
+The Mad ogre sustains 31 damage
+The Ogre attacks!
+Sir Kendric has sustained 34 damage!
+
+Sir Kendric is wearing Shiny Armour
+Health: 52 Confidence: 26 Wielding: FistsOfFury
+!> attack
+Sir Kendric attacks Mad ogre
+The Mad ogre sustains 15 damage
+The Ogre attacks!
+Sir Kendric has sustained 33 damage!
+
+Sir Kendric is wearing Shiny Armour
+Health: 19 Confidence: 10 Wielding: FistsOfFury
+!> attack
+Sir Kendric attacks Mad ogre
+The Mad ogre sustains 14 damage
+The Ogre attacks!
+Sir Kendric has sustained 34 damage!
+
+Sir Kendric is wearing Shiny Armour
+Health: 0 Confidence: 0 Wielding: FistsOfFury
+Alas! Sir Kendric has been defeated!
+You have failed your quest
